@@ -18,7 +18,7 @@ desafio-colaborativo-git.
                 <li><a href="#map">Mapa</a></li>
                 <li><a href="#gallery">Galeria</a></li>
                 <li><a href="#contact">Contato</a></li>
-                <li><a href="#indicacao1">Avaliação</a></li>
+                <li><a href="#indicacao">Avaliação1</a></li>
                 <li><a href="#about">Sobre</a></li>
             </ul>
         </nav>
