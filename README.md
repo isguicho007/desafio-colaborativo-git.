@@ -56,7 +56,7 @@ desafio-colaborativo-git.
     <h2>Galeria</h2>
 
     <div class="filme">
-        <img src="img/film1.jpg" alt="Tropa de Elite">
+        <img src="img/tropa2.jpg" alt="Tropa de Elite">
         <p>Tropa de Elite - 2007</p>
     </div>
 
