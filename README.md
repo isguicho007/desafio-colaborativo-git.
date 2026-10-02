@@ -15,11 +15,11 @@ desafio-colaborativo-git.
 
         <nav class="navbar">
             <ul>
-                <li><a href="#about">Sobre</a></li>
-                <li><a href="#gallery">Galeria</a></li>
                 <li><a href="#map">Mapa</a></li>
+                <li><a href="#gallery">Galeria</a></li>
                 <li><a href="#contact">Contato</a></li>
                 <li><a href="#indicacao">Avaliação</a></li>
+                <li><a href="#about">Sobre</a></li>
             </ul>
         </nav>
     </header>
