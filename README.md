@@ -92,8 +92,8 @@ desafio-colaborativo-git.
         <section id="contact">
             <h2>Contato</h2>
             <p> Para contato enviar e-mail para nossa gerência; </p>
-             <a href="mailto:arthurpereira@gmail.com">
-                arthurpereira@gmail.com
+             <a href="mailto:isaquealuno@gmail.com">
+                isaquealuno@gmail.com
             </a>
             
         </section>
